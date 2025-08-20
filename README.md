@@ -31,8 +31,8 @@ Software that scales — for the web, for devices, and for the industry.
 **Databases, Tools & Platforms**
 ---
 <p align="left">
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/QuantumForge77/QuantumForge77/main/assets/oracle-original-w.svg" alt="Oracle" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/QuantumForge77/QuantumForge77/main/assets/microsoft-sql-server-logo-w.svg" alt="MS SQL Server" width="40" height="40"/></a>
   <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="40" height="40"/></a>
   <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="40" height="40"/></a>
